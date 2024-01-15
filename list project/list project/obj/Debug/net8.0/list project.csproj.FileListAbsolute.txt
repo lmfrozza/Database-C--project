@@ -12,3 +12,18 @@ C:\Users\Admin\Documents\GitHub\List Project C#\list project\list project\obj\De
 C:\Users\Admin\Documents\GitHub\List Project C#\list project\list project\obj\Debug\net8.0\list project.pdb
 C:\Users\Admin\Documents\GitHub\List Project C#\list project\list project\obj\Debug\net8.0\list project.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\List Project C#\list project\list project\obj\Debug\net8.0\ref\list project.dll
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\bin\Debug\net8.0\list project.exe
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\bin\Debug\net8.0\list project.deps.json
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\bin\Debug\net8.0\list project.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\bin\Debug\net8.0\list project.dll
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\bin\Debug\net8.0\list project.pdb
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.sourcelink.json
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.dll
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\refint\list project.dll
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.pdb
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\list project.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Database-C--project\list project\list project\obj\Debug\net8.0\ref\list project.dll
